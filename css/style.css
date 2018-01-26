@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding:0;
+}
+div#enchant-stage {
+  border:solid 5px #000000;
+}
+footer {
+  margin:10px;
+}
+
